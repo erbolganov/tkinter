@@ -65,16 +65,9 @@ entery_renter("").grid(row=2, column=6, sticky='ns', padx=5, pady=5)
 entery_renter("").grid(row=3, column=6, sticky='ns', padx=5, pady=5)
 entery_renter("").grid(row=4, column=6, sticky='ns', padx=5, pady=5)
 
-'''Button'''
-btn = tk.Button(text='Save', bg='#1fff57', fg="#2060ff", font='Arial, 15')
+'''Button save'''
+btn = tk.Button(text='Save', bg='#1fff57', fg="#ebf2e6", font='Arial, 15')
 btn.grid(row=6, column=6, columnspan=6, sticky='e')
-
-
-
-
-
-
-
 
 
 
